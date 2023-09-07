@@ -1,0 +1,56 @@
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\bin\Debug\McLaughingHospital.exe.config
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\bin\Debug\McLaughingHospital.exe
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\bin\Debug\McLaughingHospital.pdb
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.csprojAssemblyReference.cache
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.Form1.resources
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.MainMenu.resources
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.Properties.Resources.resources
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.UCEmployees.resources
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.UCMenu.resources
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.UCPatients.resources
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.GenerateResource.cache
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.exe
+D:\work\asp.net C#\hospital-management-master\McLaughingHospital\obj\Debug\McLaughingHospital.pdb
+D:\work\asp.net C#\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.exe.config
+D:\work\asp.net C#\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.exe
+D:\work\asp.net C#\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.pdb
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csprojAssemblyReference.cache
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.Form1.resources
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.MainMenu.resources
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.Properties.Resources.resources
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCEmployees.resources
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCMenu.resources
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCPatients.resources
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.GenerateResource.cache
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.exe
+D:\work\asp.net C#\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.pdb
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.exe.config
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.exe
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.pdb
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.Form1.resources
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.MainMenu.resources
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.Properties.Resources.resources
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCEmployees.resources
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCMenu.resources
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCPatients.resources
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.exe
+C:\Users\DELL\Downloads\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.pdb
+D:\new project\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.exe.config
+D:\new project\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.exe
+D:\new project\hospital-management\McLaughingHospital\bin\Debug\McLaughingHospital.pdb
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.AssemblyReference.cache
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.Form1.resources
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.MainMenu.resources
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.Properties.Resources.resources
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCEmployees.resources
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCMenu.resources
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.UCPatients.resources
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.GenerateResource.cache
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.csproj.CoreCompileInputs.cache
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.exe
+D:\new project\hospital-management\McLaughingHospital\obj\Debug\McLaughingHospital.pdb
